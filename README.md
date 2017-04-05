@@ -1,2 +1,0 @@
-# HelloSohu
-my first test
